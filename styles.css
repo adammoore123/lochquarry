@@ -1,0 +1,123 @@
+body{
+    background-color:paleturquoise;
+    text-align: center;
+}
+
+}
+
+a{
+    color:azure;
+    font-family: "Chango", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+    font-size: 30px;
+}
+
+a:hover{
+    color:red;
+}
+
+.knewave-regular {
+  font-family: "Knewave", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.chango-regular {
+  font-family: "Chango", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+h1{
+  font-family: "Knewave", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 45px;
+  color: aliceblue;
+}
+
+h2{
+    font-family: "Knewave", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 25px;
+  color: aliceblue;
+}
+
+
+
+
+
+
+
+
+
+
+#navigation bar
+body {
+
+  margin: 0;
+
+  font-family: Arial, sans-serif;
+
+}
+
+
+
+.navbar {
+
+  background-color: #333;
+
+  overflow: hidden;
+
+}
+
+
+
+.navbar ul {
+
+  list-style-type: none;
+
+  margin: 0;
+
+  padding: 0;
+
+  display: flex;
+
+}
+
+
+
+.navbar li {
+
+  flex: 1;
+
+}
+
+
+
+.navbar a {
+
+  display: block;
+
+  color: white;
+
+  text-align: center;
+
+  padding: 14px;
+
+  text-decoration: none;
+
+}
+
+
+
+.navbar a:hover {
+
+  background-color: #575757;
+
+}
+
+
